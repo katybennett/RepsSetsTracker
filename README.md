@@ -1,7 +1,7 @@
 <h1>🔢Reps & Sets Tracker</h1>
 
-<p>A simple and interactive counter application built with HTML, CSS, and JavaScript.
-Increment a counter and save the count history with a click</p>
+<p>A simple and interactive counter application built with HTML, CSS, and JavaScript</p>
+<p>Increment a counter and save the count history with a click</p>
 
 <h2>📸 Demo</h2>
 
